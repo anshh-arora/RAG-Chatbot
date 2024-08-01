@@ -46,7 +46,7 @@ Poppler is used for converting PDF pages into images. This is necessary for extr
 
 Check out the video below to see the RAG Chatbot in action:
 
-[Watch the Project Video](https://github.com/anshh-arora/RAG-Chatbot/blob/main/chatbottestingvedio-ezgif.com-video-to-gif-converter.gif)
+![RAG Chatbot Video](https://github.com/anshh-arora/RAG-Chatbot/blob/main/chatbottestingvedio-ezgif.com-video-to-gif-converter.gif)
 
 ## How to Clone the Repository
 
