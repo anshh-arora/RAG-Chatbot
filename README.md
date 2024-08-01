@@ -1,5 +1,8 @@
 # RAG Chatbot
 
+## Try the chatbot
+![RAG_Chatbot](https://huggingface.co/spaces/anshharora/RAG_Chatbot)
+
 ## Introduction
 
 Welcome to the **RAG Chatbot** project! This project is a sophisticated chatbot designed to interact with various types of files and provide insightful responses using a powerful language model. The chatbot integrates several technologies to process text from images, PDFs, and spreadsheets, and generates meaningful responses based on the extracted content.
