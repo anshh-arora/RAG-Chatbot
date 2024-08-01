@@ -46,14 +46,21 @@ Poppler is used for converting PDF pages into images. This is necessary for extr
 
 Check out the video below to see the RAG Chatbot in action:
 
-[Watch the Project Video](https://github.com/anshh-arora/RAG-Chatbot/blob/main/chatbot%20testing%20vedio.mp4)
+[Watch the Project Video](https://github.com/anshh-arora/RAG-Chatbot/blob/main/chatbottestingvedio-ezgif.com-video-to-gif-converter.gif)
 
 ## How to Clone the Repository
 
 To get started with the RAG Chatbot, clone the repository using the following command:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your_username/rag-chatbot.git
+   cd rag-chatbot
 
-```bash
-git clone https://github.com/your_username/rag-chatbot.git
-cd rag-chatbot
+## Contact Information
+For any questions or feedback, feel free to reach out:
+
+- **Email**: [ansharora.cs@gmail.com](mailto:ansharora.cs@gmail.com)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-arora-data-scientist/)
+- **Kaggle**: [Follow me on Kaggle](https://www.kaggle.com/ansh1529)
 
 
