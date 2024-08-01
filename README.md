@@ -1,7 +1,10 @@
 # RAG Chatbot
 
-## Try the chatbot
-![RAG_Chatbot](https://huggingface.co/spaces/anshharora/RAG_Chatbot)
+## Try the Chatbot
+
+You can try out the RAG Chatbot by visiting the Hugging Face Space linked below:
+
+[Try the RAG Chatbot on Hugging Face](https://huggingface.co/spaces/anshharora/RAG_Chatbot)
 
 ## Introduction
 
