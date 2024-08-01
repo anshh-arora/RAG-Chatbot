@@ -9,13 +9,13 @@ import os
 import time
 
 # Set the path to Tesseract executable
-pytesseract.pytesseract.tesseract_cmd = r"C:\Users\GGN06-Ansh\Downloads\Tesseract-OCR\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = #path to pytesseract .exe file
 
 # Set the path to Poppler for PDF image extraction
-poppler_path = r"C:\Users\GGN06-Ansh\Downloads\Release-24.02.0-0\poppler-24.02.0\Library\bin"
+poppler_path = #path to bin folder of poppler file
 
 # Your Groq API key
-YOUR_GROQ_API_KEY = "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"
+YOUR_GROQ_API_KEY = #your Groq Api Key
 
 # Initialize Groq client
 client = Groq(api_key=YOUR_GROQ_API_KEY)
